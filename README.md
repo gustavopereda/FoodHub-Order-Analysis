@@ -1,22 +1,23 @@
-# FoodHub Analysis 🍔📊
+# FoodHub Analysis
 
 ## Overview
-Analyzed NYC-based food delivery data to uncover insights on cuisine popularity, delivery performance, and customer satisfaction.
-
-## Tools
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
+Analyzed customer order data from FoodHub, a New York-based food delivery platform, to uncover insights that can improve customer satisfaction, delivery efficiency, and business performance.
 
 ## Key Insights
-- American, Japanese, and Italian cuisines were most ordered.
-- Delivery time was faster on weekends.
-- 10.5% of orders took longer than 60 minutes — operational bottleneck.
+- Most popular cuisines: American, Japanese, and Italian
+- Weekday orders have longer delivery times compared to weekends
+- 10.5% of orders took over 60 minutes — opportunity for logistics improvement
 
-## Business Recommendations
-- Focus promotions on top cuisines.
-- Streamline weekday delivery logistics.
-- Improve app UX and restaurant transparency.
+## Tools Used
+- Python (Pandas, Seaborn, Matplotlib)
+- Jupyter Notebook
 
-## Folder Structure
-- `FoodHub_Analysis.ipynb`: Full notebook.
-- `Images/`: Contains key visualizations.
+## Deliverables
+- Data cleaning and EDA
+- Visualizations of customer behavior
+- Actionable business recommendations
+
+## Recommendations
+- Promote top-performing cuisines
+- Optimize weekday delivery routes
+- Improve customer retention with loyalty programs
